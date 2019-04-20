@@ -8,3 +8,13 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a co
 2. Make a new GitHub repository called liri-node-app and clone it to your computer.
 
 3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs.
+
+ liri.js can take in one of the following commands:
+
+* `concert-this`
+
+* `spotify-this-song`
+
+* `movie-this`
+
+* `do-what-it-says`
