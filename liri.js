@@ -16,8 +16,8 @@ var input = process.argv.slice(3).join(' ');
 
 
 //console.log("KEYS", keys.spotify);
-console.log(action);
-console.log(input);
+//console.log(action);
+//console.log(input);
 
 
 function userRequest(action, input) {
