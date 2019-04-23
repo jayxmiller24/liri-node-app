@@ -18,3 +18,15 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a co
 * `movie-this`
 
 * `do-what-it-says`
+
+How to enter input
+
+1. `node liri.js concert-this <artist/band name here>`
+
+2. `node liri.js do-what-it-says`
+
+3. `node liri.js spotify-this-song '<song name here>'`
+
+4. `node liri.js movie-this '<movie name here>'`
+
+
